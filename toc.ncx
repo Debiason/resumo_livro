@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:978-65-984903-1-7"/>  <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalpagecount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxpagenumber" content="0"/> <!-- must be 0 -->
+  </head>
+  <doctitle>
+    <text>ALFABETO DOS ANIMAIS</text>
+  </docTitle>
+  <docAuthor>
+    <text>ROSEANE FREITAS BIASON  ; CENIR DE MOURA [ILUSTRADOR]</text>
+  </docAuthor>
+  <navMap>
+	
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="3">
+			<navLabel>
+				<text>Page 3</text>
+			</navLabel>
+			<content src="content/page_3.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="4">
+			<navLabel>
+				<text>Page 4</text>
+			</navLabel>
+			<content src="content/page_4.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="5">
+			<navLabel>
+				<text>Page 5</text>
+			</navLabel>
+			<content src="content/page_5.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="6">
+			<navLabel>
+				<text>Page 6</text>
+			</navLabel>
+			<content src="content/page_6.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="7">
+			<navLabel>
+				<text>Page 7</text>
+			</navLabel>
+			<content src="content/page_7.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="8">
+			<navLabel>
+				<text>Page 8</text>
+			</navLabel>
+			<content src="content/page_8.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="9">
+			<navLabel>
+				<text>Page 9</text>
+			</navLabel>
+			<content src="content/page_9.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="10">
+			<navLabel>
+				<text>Page 10</text>
+			</navLabel>
+			<content src="content/page_10.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="11">
+			<navLabel>
+				<text>Page 11</text>
+			</navLabel>
+			<content src="content/page_11.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="12">
+			<navLabel>
+				<text>Page 12</text>
+			</navLabel>
+			<content src="content/page_12.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="13">
+			<navLabel>
+				<text>Page 13</text>
+			</navLabel>
+			<content src="content/page_13.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="14">
+			<navLabel>
+				<text>Page 14</text>
+			</navLabel>
+			<content src="content/page_14.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="15">
+			<navLabel>
+				<text>Page 15</text>
+			</navLabel>
+			<content src="content/page_15.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="16">
+			<navLabel>
+				<text>Page 16</text>
+			</navLabel>
+			<content src="content/page_16.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="17">
+			<navLabel>
+				<text>Page 17</text>
+			</navLabel>
+			<content src="content/page_17.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="18">
+			<navLabel>
+				<text>Page 18</text>
+			</navLabel>
+			<content src="content/page_18.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="19">
+			<navLabel>
+				<text>Page 19</text>
+			</navLabel>
+			<content src="content/page_19.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="20">
+			<navLabel>
+				<text>Page 20</text>
+			</navLabel>
+			<content src="content/page_20.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="21">
+			<navLabel>
+				<text>Page 21</text>
+			</navLabel>
+			<content src="content/page_21.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="22">
+			<navLabel>
+				<text>Page 22</text>
+			</navLabel>
+			<content src="content/page_22.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="23">
+			<navLabel>
+				<text>Page 23</text>
+			</navLabel>
+			<content src="content/page_23.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="24">
+			<navLabel>
+				<text>Page 24</text>
+			</navLabel>
+			<content src="content/page_24.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="25">
+			<navLabel>
+				<text>Page 25</text>
+			</navLabel>
+			<content src="content/page_25.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="26">
+			<navLabel>
+				<text>Page 26</text>
+			</navLabel>
+			<content src="content/page_26.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="27">
+			<navLabel>
+				<text>Page 27</text>
+			</navLabel>
+			<content src="content/page_27.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="28">
+			<navLabel>
+				<text>Page 28</text>
+			</navLabel>
+			<content src="content/page_28.html"/>
+		</navPoint>
+		<navPoint class="chapter" id="level1_book_chapter1" playOrder="29">
+			<navLabel>
+				<text>Page 29</text>
+			</navLabel>
+			<content src="content/page_29.html"/>
+		</navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="isbn-id" xml:lang="pt-BR" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>ALFABETO DOS ANIMAIS</dc:title>
+	<dc:language>pt-br</dc:language>
+	<dc:creator opf:role="aut" opf:file-as="PNLD, Autor">ROSEANE FREITAS BIASON  ; CENIR DE MOURA [ILUSTRADOR]</dc:creator>
+	<dc:publisher>Sonhos Letrados Editora</dc:publisher>
+	<dc:date>2022-01-01</dc:date>
+	<dc:description>ALFABETO DOS ANIMAIS</dc:description>
+	<dc:identifier id="isbn-id" opf:scheme="ISBN">urn:isbn:978-65-984903-1-7</dc:identifier>
+	<meta name="cover" content="cover.jpeg" />
+	<x-metadata>
+		<EmbeddedCover>cover.jpeg</EmbeddedCover>
+	</x-metadata>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+	</metadata>
+	<manifest>
+		<item id="content" href="index.html" media-type="text/html" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="cover" properties="cover-image" href="cover.jpeg" mediatype="image/jpeg" />
+				<item id="pg-1" href="content/page_3.html" mediatype="text/html" />
+		<item id="pg-2" href="content/page_14.html" mediatype="text/html" />
+		<item id="pg-3" href="content/page_10.html" mediatype="text/html" />
+		<item id="pg-4" href="content/page_20.html" mediatype="text/html" />
+		<item id="pg-5" href="content/page_24.html" mediatype="text/html" />
+		<item id="pg-6" href="content/page_6.html" mediatype="text/html" />
+		<item id="pg-7" href="content/page_25.html" mediatype="text/html" />
+		<item id="pg-8" href="content/page_12.html" mediatype="text/html" />
+		<item id="pg-9" href="content/page_28.html" mediatype="text/html" />
+		<item id="pg-10" href="content/page_4.html" mediatype="text/html" />
+		<item id="pg-11" href="content/page_8.html" mediatype="text/html" />
+		<item id="pg-12" href="content/page_13.html" mediatype="text/html" />
+		<item id="pg-13" href="content/page_21.html" mediatype="text/html" />
+		<item id="pg-14" href="content/page_22.html" mediatype="text/html" />
+		<item id="pg-15" href="content/page_23.html" mediatype="text/html" />
+		<item id="pg-16" href="content/page_26.html" mediatype="text/html" />
+		<item id="pg-17" href="content/page_19.html" mediatype="text/html" />
+		<item id="pg-18" href="content/page_7.html" mediatype="text/html" />
+		<item id="pg-19" href="content/page_5.html" mediatype="text/html" />
+		<item id="pg-20" href="content/page_27.html" mediatype="text/html" />
+		<item id="pg-21" href="content/page_9.html" mediatype="text/html" />
+		<item id="pg-22" href="content/page_15.html" mediatype="text/html" />
+		<item id="pg-23" href="content/page_11.html" mediatype="text/html" />
+		<item id="pg-24" href="content/page_18.html" mediatype="text/html" />
+		<item id="pg-25" href="content/page_16.html" mediatype="text/html" />
+		<item id="pg-26" href="content/page_17.html" mediatype="text/html" />
+		<item id="pg-27" href="content/page_29.html" mediatype="text/html" />
+		<item id="pg-28" href="index.html" mediatype="text/html" />
+
+		<item id="font-1" href="resources/fonts/Aniara-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-2" href="resources/fonts/AniaraDark-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-3" href="resources/fonts/Arial.woff2" mediatype="application/octet-stream" />
+		<item id="font-4" href="resources/fonts/AustrianRegular.woff2" mediatype="application/octet-stream" />
+		<item id="font-5" href="resources/fonts/BGobletDrawn-NorLi.woff2" mediatype="application/octet-stream" />
+		<item id="font-6" href="resources/fonts/Brestonk.woff" mediatype="application/octet-stream" />
+		<item id="font-7" href="resources/fonts/Brestonk.woff2" mediatype="application/octet-stream" />
+		<item id="font-8" href="resources/fonts/Chilanka-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-9" href="resources/fonts/CoalhandLuke.woff2" mediatype="application/octet-stream" />
+		<item id="font-10" href="resources/fonts/ComicNeue-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-11" href="resources/fonts/ComicNeue-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-12" href="resources/fonts/CoolCrayon.woff2" mediatype="application/octet-stream" />
+		<item id="font-13" href="resources/fonts/Dker-Poster.woff2" mediatype="application/octet-stream" />
+		<item id="font-14" href="resources/fonts/Dudu-Calligraphy.woff2" mediatype="application/octet-stream" />
+		<item id="font-15" href="resources/fonts/GillSansMT-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-16" href="resources/fonts/GnaraMops-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-17" href="resources/fonts/HKGrotesk-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-18" href="resources/fonts/HKGrotesk-BoldItalic.woff2" mediatype="application/octet-stream" />
+		<item id="font-19" href="resources/fonts/HKGrotesk-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-20" href="resources/fonts/HKGrotesk-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-21" href="resources/fonts/Halogen.woff2" mediatype="application/octet-stream" />
+		<item id="font-22" href="resources/fonts/HandIt-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-23" href="resources/fonts/Helvetica-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-24" href="resources/fonts/Hupaisa-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-25" href="resources/fonts/JosefinSans-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-26" href="resources/fonts/JosefinSans.woff2" mediatype="application/octet-stream" />
+		<item id="font-27" href="resources/fonts/Josschrift.woff2" mediatype="application/octet-stream" />
+		<item id="font-28" href="resources/fonts/Karla-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-29" href="resources/fonts/Karla.woff2" mediatype="application/octet-stream" />
+		<item id="font-30" href="resources/fonts/Lepetitcochon-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-31" href="resources/fonts/Londrina.woff2" mediatype="application/octet-stream" />
+		<item id="font-32" href="resources/fonts/MalayalamMN.woff2" mediatype="application/octet-stream" />
+		<item id="font-33" href="resources/fonts/Marthens.woff2" mediatype="application/octet-stream" />
+		<item id="font-34" href="resources/fonts/MinionPro-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-35" href="resources/fonts/Moreno-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-36" href="resources/fonts/MrDodo-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-37" href="resources/fonts/MrDodo-Rounded.woff2" mediatype="application/octet-stream" />
+		<item id="font-38" href="resources/fonts/OliverLabel.woff2" mediatype="application/octet-stream" />
+		<item id="font-39" href="resources/fonts/Open-Sans.woff2" mediatype="application/octet-stream" />
+		<item id="font-40" href="resources/fonts/OpenDyslexic-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-41" href="resources/fonts/OpenDyslexic-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-42" href="resources/fonts/OpenDyslexic-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-43" href="resources/fonts/OpenSans-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-44" href="resources/fonts/OpenSans-Italic.woff2" mediatype="application/octet-stream" />
+		<item id="font-45" href="resources/fonts/OpenSans-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-46" href="resources/fonts/OpenSans-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-47" href="resources/fonts/OpenSans-SemiBold.woff2" mediatype="application/octet-stream" />
+		<item id="font-48" href="resources/fonts/PTSans.woff2" mediatype="application/octet-stream" />
+		<item id="font-49" href="resources/fonts/PangeaAfrikanTextTrial-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-50" href="resources/fonts/PangeaAfrikanTextTrial-BoldItalic.woff2" mediatype="application/octet-stream" />
+		<item id="font-51" href="resources/fonts/PangeaAfrikanTextTrial-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-52" href="resources/fonts/PangeaAfrikanTextTrial-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-53" href="resources/fonts/PiSCoalfield.woff2" mediatype="application/octet-stream" />
+		<item id="font-54" href="resources/fonts/PlaypenSans.woff2" mediatype="application/octet-stream" />
+		<item id="font-55" href="resources/fonts/ProvidenceSansPro-Bold.woff2" mediatype="application/octet-stream" />
+		<item id="font-56" href="resources/fonts/ProvidenceSansPro.woff2" mediatype="application/octet-stream" />
+		<item id="font-57" href="resources/fonts/Quentin.woff2" mediatype="application/octet-stream" />
+		<item id="font-58" href="resources/fonts/Ribeye-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-59" href="resources/fonts/RibeyeNarrow-Regular.woff2" mediatype="application/octet-stream" />
+		<item id="font-60" href="resources/fonts/Ringster.woff2" mediatype="application/octet-stream" />
+		<item id="font-61" href="resources/fonts/SBOne.woff2" mediatype="application/octet-stream" />
+		<item id="font-62" href="resources/fonts/Sanderling.woff2" mediatype="application/octet-stream" />
+		<item id="font-63" href="resources/fonts/Sandy-Bay.woff2" mediatype="application/octet-stream" />
+		<item id="font-64" href="resources/fonts/Square.woff2" mediatype="application/octet-stream" />
+		<item id="font-65" href="resources/fonts/TallDrink.woff2" mediatype="application/octet-stream" />
+		<item id="font-66" href="resources/fonts/Times New Roman.woff2" mediatype="application/octet-stream" />
+		<item id="font-67" href="resources/fonts/UnitOT-Light.woff2" mediatype="application/octet-stream" />
+		<item id="font-68" href="resources/fonts/UnitOT.woff2" mediatype="application/octet-stream" />
+		<item id="font-69" href="resources/fonts/Widia.woff2" mediatype="application/octet-stream" />
+		<item id="font-70" href="resources/fonts/folks.woff2" mediatype="application/octet-stream" />
+		<item id="font-71" href="resources/fonts/pala.woff2" mediatype="application/octet-stream" />
+		<item id="font-72" href="resources/fonts/song.woff2" mediatype="application/octet-stream" />
+		<item id="img-1" href="resources/images/book/image_034ba8a63596d171a053015b1cb4519f138c8408.jpg" mediatype="image/jpeg" />
+		<item id="img-2" href="resources/images/book/image_07df6285ca250d82f692d18c702e6e2066c69056.jpg" mediatype="image/jpeg" />
+		<item id="img-3" href="resources/images/book/image_0d2a40dc44407b5acbd5a7e360d5a8b1176e6054.jpg" mediatype="image/jpeg" />
+		<item id="img-4" href="resources/images/book/image_0e74f00ee4becbfc9c8dca17c1d446b85356a658.jpg" mediatype="image/jpeg" />
+		<item id="img-5" href="resources/images/book/image_133da77627b3d860712e5c8cbc783e9b0dcb0be7.jpg" mediatype="image/jpeg" />
+		<item id="img-6" href="resources/images/book/image_14ecf2080884711c3e2c82cc546579149a8fb45c.jpg" mediatype="image/jpeg" />
+		<item id="img-7" href="resources/images/book/image_1fb2c3ff82d2296d35bb5bea0fca077b4d85a007.jpg" mediatype="image/jpeg" />
+		<item id="img-8" href="resources/images/book/image_270cf27b5e2a2082c27edcad7724abd2deb4311e.jpg" mediatype="image/jpeg" />
+		<item id="img-9" href="resources/images/book/image_2a4eb239b5b4daa5559727950f57e909ee9c8bde.jpg" mediatype="image/jpeg" />
+		<item id="img-10" href="resources/images/book/image_31d0ad46c380f16c7fdad2d5ae3288259268fa31.jpg" mediatype="image/jpeg" />
+		<item id="img-11" href="resources/images/book/image_3ae0e90c0e6a729c9dd87f6b910653260f9c8bc2.jpg" mediatype="image/jpeg" />
+		<item id="img-12" href="resources/images/book/image_3c55b1cbf226f60dba422a5f9775518c1cd905b7.jpg" mediatype="image/jpeg" />
+		<item id="img-13" href="resources/images/book/image_663df65d8e13efe67fe82fd06e569f32c6fa9d0a.jpg" mediatype="image/jpeg" />
+		<item id="img-14" href="resources/images/book/image_6e8bb2f7c9cf698346af15b5591ed958b7f9585b.jpg" mediatype="image/jpeg" />
+		<item id="img-15" href="resources/images/book/image_7232d1c6ba19afb7d16a73f27a46dab8ea620d9b.jpg" mediatype="image/jpeg" />
+		<item id="img-16" href="resources/images/book/image_7a5e35032721cd0d0c444dcaf02fe669ed8c56fc.jpg" mediatype="image/jpeg" />
+		<item id="img-17" href="resources/images/book/image_82e33d63041335e597a179bc81c1a87897db6b3a.jpg" mediatype="image/jpeg" />
+		<item id="img-18" href="resources/images/book/image_85a0f1ac11ab1ea4eb7148f538dfab771145164c.jpg" mediatype="image/jpeg" />
+		<item id="img-19" href="resources/images/book/image_875125d866dc873648743474d41e49df4e25083c.jpg" mediatype="image/jpeg" />
+		<item id="img-20" href="resources/images/book/image_8b144362c7549cd7d39a9e3bb60ff0a1c9e7bca4.jpg" mediatype="image/jpeg" />
+		<item id="img-21" href="resources/images/book/image_920a795e60883901734844a992ae1dc9dc167ca2.jpg" mediatype="image/jpeg" />
+		<item id="img-22" href="resources/images/book/image_9707ad7f2c08390f88f25a5cc98d8a3706167cca.jpg" mediatype="image/jpeg" />
+		<item id="img-23" href="resources/images/book/image_a10d7f23e01e0e16a5aedc0b87d993d17aaa1fc5.jpg" mediatype="image/jpeg" />
+		<item id="img-24" href="resources/images/book/image_a2cf45c503d5fff64c4e97f2e812785116a40a70.jpg" mediatype="image/jpeg" />
+		<item id="img-25" href="resources/images/book/image_ac4ccbfe09fe5b094c12c8756746ec6b222a30d7.jpg" mediatype="image/jpeg" />
+		<item id="img-26" href="resources/images/book/image_b62f3d8a3796e65d26ad4bb27ecee3f99dd2a878.jpg" mediatype="image/jpeg" />
+		<item id="img-27" href="resources/images/book/image_bd83fa316909ca2e0cbb4ee5155702645909010c.jpg" mediatype="image/jpeg" />
+		<item id="img-28" href="resources/images/book/image_bdfcb1511af72e4e5580bc64e6251c5c1a2b9b17.jpg" mediatype="image/jpeg" />
+		<item id="img-29" href="resources/images/book/image_bf9cec35c87639c2503420a2a69cc1c6805981d5.jpg" mediatype="image/jpeg" />
+		<item id="img-30" href="resources/images/book/image_c245b7a7bc09f7adbd550980d506d8cdf96fd2f3.jpg" mediatype="image/jpeg" />
+		<item id="img-31" href="resources/images/book/image_cb437f3cf3797a99d443ce91e68282bc9836e415.jpg" mediatype="image/jpeg" />
+		<item id="img-32" href="resources/images/book/image_e11c89597b7688fbf94f391587d6acc26870779d.jpg" mediatype="image/jpeg" />
+		<item id="img-33" href="resources/images/nav/ico-fullscreen.png" mediatype="image/png" />
+		<item id="img-34" href="resources/images/nav/ico_ant.png" mediatype="image/png" />
+		<item id="img-35" href="resources/images/nav/ico_font_a.png" mediatype="image/png" />
+		<item id="img-36" href="resources/images/nav/ico_font_a_mais.png" mediatype="image/png" />
+		<item id="img-37" href="resources/images/nav/ico_font_a_menos.png" mediatype="image/png" />
+		<item id="img-38" href="resources/images/nav/ico_home.png" mediatype="image/png" />
+		<item id="img-39" href="resources/images/nav/ico_prox.png" mediatype="image/png" />
+		<item id="js-1" href="resources/scripts/bootstrap.bundle.js" mediatype="text/javascript" />
+		<item id="js-2" href="resources/scripts/bootstrap.bundle.js.map" mediatype="text/javascript" />
+		<item id="js-3" href="resources/scripts/bootstrap.js" mediatype="text/javascript" />
+		<item id="js-4" href="resources/scripts/bootstrap.js.map" mediatype="text/javascript" />
+		<item id="js-5" href="resources/scripts/jquery-3.6.0.min.js" mediatype="text/javascript" />
+		<item id="js-6" href="resources/scripts/livro_offline.js" mediatype="text/javascript" />
+		<item id="css-1" href="resources/styles/bootstrap.min.css" mediatype="text/css" />
+		<item id="css-2" href="resources/styles/bootstrap.min.css.map" mediatype="text/css" />
+		<item id="css-3" href="resources/styles/froala_style/froala_style.css" mediatype="text/css" />
+		<item id="css-4" href="resources/styles/froala_style/stylesheet_froala.css" mediatype="text/css" />
+		<item id="css-5" href="resources/styles/froala_style/stylesheet_froala_totalize.css" mediatype="text/css" />
+		<item id="css-6" href="resources/styles/style.css" mediatype="text/css" />
+		<item id="css-7" href="resources/styles/stylesheet.css" mediatype="text/css" />
+	
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="content" />
+	</spine>
+	<guide>
+		<reference href="index.html#toc" type="toc" title="Table of Contents" />
+	</guide>
+</package>

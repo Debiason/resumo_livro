@@ -1,0 +1,89 @@
+/* Personalização de Fontes versus */
+/* FUNDAMENTAL 1 */
+.ldi_fonte {
+    font-family: 'Merriweather-Light-Regular';
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.ldi_t2 {
+    font-family: 'CooperHewitt-Heavy';
+    font-size: 24px;
+    font-weight: normal;
+}
+.ldi_t3 {
+    font-family:   'Decalotype';
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+/*TÍTULAÇÕES*/
+.ldi_p1 {
+    font-family: 'HKGrotesk-Black';
+    font-size: 16px;
+    font-weight: normal;
+    color: #ca5098 ;
+}
+
+.ldi_p2 {
+    font-family: 'HKGrotesk-Bold';
+    font-size: 16px;
+    font-weight: normal;
+    color: #e94f35 ;
+}
+
+
+
+/* PLUGIN DE ESTILOS FROALA TOTALIZE */
+.versusStyle_Q {
+    border: 1px solid #aab1b7;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0.75rem;
+    border-bottom-left-radius: 0.75rem;
+    border-bottom-right-radius: 0rem;
+    padding: 1rem; margin: 1em 0;
+}
+.versusStyle_Q_1 {background-color: #fff; border-color: #2f78bc;}
+.versusStyle_Q_2 {background-color: #fcecee; border-color: #e77290;}
+.versusStyle_Q_3 {background-color: #f0f6e6; border-color: #92c246;}
+.versusStyle_Q_4 {background-color: #ebe7f2; border-color: #7f5da2;}
+.versusStyle_Q_5 {background-color: #f7f7f7; border-color: #cccccc}
+.versusStyle_Q_6 {background-color: #dfe9f5; border-color: #2f78bc;}
+
+.versusStyle_Qs {border: 0x; padding: 1rem; margin: 1em 0; border-radius: 0.75rem;}
+.versusStyle_Qs_1 {background-color: #ecf5ff;}
+.versusStyle_Qs_2 {background-color: #fcecee;}
+.versusStyle_Qs_3 {background-color: #f0f6e6;}
+.versusStyle_Qs_4 {background-color: #ebe7f2;}
+.versusStyle_Qs_5 {background-color: #f7f7f7;}
+.versusStyle_Qs_6 {background-color: #dfe9f5;}
+
+.versusStyle_Ef1 {font-size: 19px; letter-spacing: 0px; word-spacing: 0px; font-weight: 700; text-transform: uppercase; color: #5e96ff; margin: 0.5em 0; }
+.versusStyle_Ef1 .ico{width: 21px; height: 26px; display: inline-block; background: url(../../images/icos/froala_icons_styles.png) left top no-repeat; background-position-y: 0px; margin-right: 7px; }
+.versusStyle_Ef1_1 .ico{ background-position-x: 0px; }
+.versusStyle_Ef1_2 .ico{ background-position-x: -22px; }
+.versusStyle_Ef1_3 .ico{ background-position-x: -44px; }
+.versusStyle_Ef1_4 .ico{ background-position-x: -66px; }
+.versusStyle_Ef1_5 .ico{ background-position-x: -88px; }
+
+.versusStyle_Ef2 {font-size: 19px; letter-spacing: 0px; word-spacing: 0px; font-weight: 700; text-transform: uppercase; color: #f07f5a; margin: 0.5em 0; }
+.versusStyle_Ef2 .ico{width: 26px; height: 26px; display: inline-block; background: url(../../images/icos/froala_icons_styles.png) left top no-repeat; background-position-y: -27px; margin-right: 7px; }
+.versusStyle_Ef2_1 .ico{ background-position-x: 0px; }
+.versusStyle_Ef2_2 .ico{ background-position-x: -26px; }
+.versusStyle_Ef2_3 .ico{ background-position-x: -52px; }
+.versusStyle_Ef2_4 .ico{ background-position-x: -78px; }
+
+.versusStyle_Ei {font-size: 19px; letter-spacing: 0px; word-spacing: 0px; font-weight: 700; text-transform: uppercase; color: #743d90; margin: 0.5em 0; }
+.versusStyle_Ei .ico{width: 24px; height: 26px; display: inline-block; background: url(../../images/icos/froala_icons_styles.png) left top no-repeat; background-position-y: -54px; margin-right: 7px; }
+.versusStyle_Ei_1 .ico{ background-position-x: 0px; }
+.versusStyle_Ei_2 .ico{ background-position-x: -24px; }
+.versusStyle_Ei_3 .ico{ background-position-x: -48px; }
+.versusStyle_Ei_4 .ico{ background-position-x: -72px; }
+.versusStyle_Ei_5 .ico{ background-position-x: -96px; }
+
+.versusStyle_drawr_container{
+    width: 100%;
+    height: 450px;
+    border: 2px dotted gray;
+}
