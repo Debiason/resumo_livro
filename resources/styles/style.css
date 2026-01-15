@@ -426,4 +426,65 @@ a:hover {
         width: 100%;
         text-align: center;
     }
+
+	/* Evita qualquer estouro horizontal */
+    html, body {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    /* Ajuste geral das páginas-imagem */
+    [role="img"] {
+        max-width: 100% !important;
+        min-height: auto !important;
+        background-size: contain !important;
+        padding: 0 !important;
+    }
+
+    /* ===== TÍTULOS DO LIVRO ===== */
+
+    /* ALFABETO / ANIMAIS */
+    span[style*="font-size: 72px"] {
+        font-size: 36px !important;
+        line-height: 1.1 !important;
+    }
+
+    span[style*="font-size: 60px"] {
+        font-size: 28px !important;
+        line-height: 1.1 !important;
+    }
+
+    span[style*="font-size: 48px"] {
+        font-size: 24px !important;
+    }
+
+    /* Remove rotações no mobile */
+    [style*="rotate"] {
+        transform: none !important;
+        text-align: center !important;
+    }
+
+    /* Corrige margens fixas */
+    [style*="margin-left"],
+    [style*="margin-right"] {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    /* Centraliza textos */
+    p {
+        text-align: center !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    /* Ajusta colunas */
+    .col-12 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+	.titulo-principal {
+        font-size: clamp(28px, 8vw, 42px);
+    }
 }
