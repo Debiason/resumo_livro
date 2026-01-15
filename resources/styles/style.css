@@ -1,7 +1,8 @@
 html {
-	min-width: 900px;
-	height: 100%;
+    width: 100%;
+    min-width: 0;
 }
+
 body {
 	overflow-x: hidden;
 	background-color: #ffffff;
@@ -391,4 +392,38 @@ a:hover {
 	body {
 		font-size: 12px;
 	}
+}
+
+@media (max-width: 768px) {
+
+    /* remove larguras forçadas */
+    html, body {
+        min-width: 0 !important;
+        overflow-x: hidden;
+    }
+
+    /* grid */
+    .sumario {
+        display: none; /* opcional */
+    }
+
+    /* remove alinhamentos quebrados */
+    [style*="margin-left"] {
+        margin-left: 0 !important;
+    }
+
+    /* imagens-página */
+    [role="img"] {
+        max-width: 100% !important;
+        min-height: auto !important;
+        background-size: contain;
+    }
+
+    /* navegação */
+    .navegator {
+        left: 0 !important;
+        transform: none !important;
+        width: 100%;
+        text-align: center;
+    }
 }
